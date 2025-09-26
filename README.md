@@ -7,7 +7,9 @@ This project allows you to upload your dataset, generate insights and recommenda
 - **Source:** Google Play Store
 - **Raw Data:** `googleplaystore.csv`
 - **Cleaned Data:** `cleaned_googleplaystore.csv`  
-  The cleaning and formatting steps are documented in [googleStoreData.ipynb](googleStoreData.ipynb).
+  The cleaning and formatting steps are documented in [googleStoreData.ipynb](googleStoreData.ipynb)
+  For a summary of changes made to the dataset, do refer to [datasetCleaning.md](datasetCleaning.md).
+
 
 ## RAG Pipeline
 
