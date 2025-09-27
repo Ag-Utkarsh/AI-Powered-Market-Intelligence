@@ -8,7 +8,10 @@ This project allows you to upload your dataset, generate insights and recommenda
 - **Raw Data:** `googleplaystore.csv`
 - **Cleaned Data:** `cleaned_googleplaystore.csv`  
   The cleaning and formatting steps are documented in [googleStoreData.ipynb](googleStoreData.ipynb)
-  For a summary of changes made to the dataset, do refer to [datasetCleaning.md](datasetCleaning.md).
+- **Creation of dataframe using Rapid API - Appstore Scrapper API:**  
+  Code implementation is in `dataframeThruAPI.ipynb` and the dataset created through it is `rapidAPIdataframe.csv`.
+- **Combined Dataset:**  
+  We have a combined dataset `combined_dataframe.csv`. The implementation for combining datasets is in [googleStoreData.ipynb](googleStoreData.ipynb); please refer to it.
 
 
 ## RAG Pipeline
